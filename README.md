@@ -38,7 +38,7 @@ A fully responsive and functional **Netflix-like clone** created with **HTML**, 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/netflix-clone.git
+    git clone https://github.com/imtahirnaseer/netflix-clone.git
     ```
 2. Navigate to the project folder:
     ```bash
